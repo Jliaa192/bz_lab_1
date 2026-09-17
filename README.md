@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/status-active-green) ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![Python](https://img.shields.io/badge/python-3.10%2B-yellow)
 
-![MusicStats logo](https://placehold.co/600x200?text=MusicStats)
+![MusicStats logo](https://i.pinimg.com/originals/16/83/a9/1683a9505e0b3172a22a542b50060640.jpg?nii=t)
 
 ## Оглавление
 
