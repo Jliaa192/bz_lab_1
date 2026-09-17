@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/status-active-green) ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![Python](https://img.shields.io/badge/python-3.10%2B-yellow)
 
-![MusicStats logo](https://i.pinimg.com/originals/16/83/a9/1683a9505e0b3172a22a542b50060640.jpg?nii=t)
+![MusicStats logo](https://sun9-59.vkuserphoto.ru/impf/jTuJvJPtL4Me668T_xPGRJxJx5Gl642bNFMdZg/fjmS0heT6JU.jpg?size=1920x768&quality=95&crop=33,266,1151,460&sign=f47ba2c96676b04266cf65b706771685&type=cover_group)
 
 ## Оглавление
 
